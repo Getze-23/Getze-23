@@ -1,4 +1,4 @@
-# Hola soy Arthur 👋 y este es mi cuenta secundaria
+# Hola soy Getze 👋 y soy un many
 
 <!--
 **Getze-23/Getze-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
